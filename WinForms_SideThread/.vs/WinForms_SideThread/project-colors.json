@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1195b3f0-2d94-40c8-b035-6e92b6a8b7c9": {
+      "ProjectGuid": "1195b3f0-2d94-40c8-b035-6e92b6a8b7c9",
+      "DisplayName": "WinForms_SideThread",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
